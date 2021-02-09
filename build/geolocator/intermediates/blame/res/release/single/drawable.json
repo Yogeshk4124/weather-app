@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\5ac9ad6f13ea0190a3570ea7a43d9f59\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\5ac9ad6f13ea0190a3570ea7a43d9f59\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\5ac9ad6f13ea0190a3570ea7a43d9f59\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\5ac9ad6f13ea0190a3570ea7a43d9f59\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\5ac9ad6f13ea0190a3570ea7a43d9f59\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\5ac9ad6f13ea0190a3570ea7a43d9f59\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\5ac9ad6f13ea0190a3570ea7a43d9f59\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\5ac9ad6f13ea0190a3570ea7a43d9f59\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\a528b13ac93e64cafa3d0480e2c93207\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\5ac9ad6f13ea0190a3570ea7a43d9f59\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\5ac9ad6f13ea0190a3570ea7a43d9f59\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\5ac9ad6f13ea0190a3570ea7a43d9f59\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\5ac9ad6f13ea0190a3570ea7a43d9f59\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\5ac9ad6f13ea0190a3570ea7a43d9f59\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\yogesh kumar\\AndroidStudioProjects\\weatherapp\\build\\geolocator\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\yogesh kumar\\.gradle\\caches\\transforms-2\\files-2.1\\5ac9ad6f13ea0190a3570ea7a43d9f59\\play-services-base-17.0.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    }
+]

@@ -25,7 +25,6 @@ class _State extends State<LoadingScreen> {
     if(widget.apiType==0)
     getLocation();
     else{
-
       searchWeather(widget.place);
     }
   }
