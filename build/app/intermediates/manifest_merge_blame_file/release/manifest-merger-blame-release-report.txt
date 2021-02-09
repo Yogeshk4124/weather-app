@@ -19,95 +19,101 @@
 17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 17-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:8:5-80
 17-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:8:22-78
-18
-19    <application
-19-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:9:5-47:19
-20        android:name="io.flutter.app.FlutterApplication"
-20-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:10:9-57
-21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-21-->[androidx.core:core:1.1.0] C:\Users\yogesh kumar\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:18-86
-22        android:icon="@mipmap/ic_launcher"
-22-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:12:9-43
-23        android:label="weatherapp" >
-23-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:11:9-35
-24        <activity
-24-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:13:9-41:20
-25            android:name="com.example.weatherapp.MainActivity"
-25-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:14:13-41
-26            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-26-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:17:13-163
-27            android:hardwareAccelerated="true"
-27-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:18:13-47
-28            android:launchMode="singleTop"
-28-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:15:13-43
-29            android:theme="@style/LaunchTheme"
-29-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:16:13-47
-30            android:windowSoftInputMode="adjustResize" >
-30-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:19:13-55
-31
-32            <!--
-33                 Specifies an Android theme to apply to this Activity as soon as
-34                 the Android process has started. This theme is visible to the user
-35                 while the Flutter UI initializes. After that, this theme continues
-36                 to determine the Window background behind the Flutter UI.
-37            -->
-38            <meta-data
-38-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:24:13-27:17
-39                android:name="io.flutter.embedding.android.NormalTheme"
-39-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:25:15-70
-40                android:resource="@style/NormalTheme" />
-40-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:26:15-52
-41            <!--
-42                 Displays an Android View that continues showing the launch screen
-43                 Drawable until Flutter paints its first frame, then this splash
-44                 screen fades out. A splash screen is useful to avoid any visual
-45                 gap between the end of Android's launch screen and the painting of
-46                 Flutter's first frame.
-47            -->
-48            <meta-data
-48-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:33:13-36:17
-49                android:name="io.flutter.embedding.android.SplashScreenDrawable"
-49-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:34:15-79
-50                android:resource="@drawable/launch_background" />
-50-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:35:15-61
-51
-52            <intent-filter>
-52-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:37:13-40:29
-53                <action android:name="android.intent.action.MAIN" />
-53-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:38:17-68
-53-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:38:25-66
-54
-55                <category android:name="android.intent.category.LAUNCHER" />
-55-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:39:17-76
-55-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:39:27-74
-56            </intent-filter>
-57        </activity>
-58        <!--
-59             Don't delete the meta-data below.
-60             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
-61        -->
-62        <meta-data
-62-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:44:9-46:33
-63            android:name="flutterEmbedding"
-63-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:45:13-44
-64            android:value="2" />
-64-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:46:13-30
-65
-66        <activity
-66-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\yogesh kumar\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-67            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-67-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\yogesh kumar\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
-68            android:exported="false"
-68-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\yogesh kumar\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-69            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-69-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\yogesh kumar\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-70
-71        <meta-data
-71-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\yogesh kumar\.gradle\caches\transforms-2\files-2.1\4eabd75a9348f5d66c6a24f57479dff0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-72            android:name="com.google.android.gms.version"
-72-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\yogesh kumar\.gradle\caches\transforms-2\files-2.1\4eabd75a9348f5d66c6a24f57479dff0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-73            android:value="@integer/google_play_services_version" />
-73-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\yogesh kumar\.gradle\caches\transforms-2\files-2.1\4eabd75a9348f5d66c6a24f57479dff0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-74    </application>
-75
-76</manifest>
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:9:5-66
+18-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:9:22-64
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:10:5-79
+19-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:10:22-76
+20
+21    <application
+21-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:11:5-49:19
+22        android:name="io.flutter.app.FlutterApplication"
+22-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:12:9-57
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.1.0] C:\Users\yogesh kumar\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:18-86
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:14:9-43
+25        android:label="weatherapp" >
+25-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:13:9-35
+26        <activity
+26-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:15:9-43:20
+27            android:name="com.example.weatherapp.MainActivity"
+27-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:16:13-41
+28            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+28-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:19:13-163
+29            android:hardwareAccelerated="true"
+29-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:20:13-47
+30            android:launchMode="singleTop"
+30-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:17:13-43
+31            android:theme="@style/LaunchTheme"
+31-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:18:13-47
+32            android:windowSoftInputMode="adjustResize" >
+32-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:21:13-55
+33
+34            <!--
+35                 Specifies an Android theme to apply to this Activity as soon as
+36                 the Android process has started. This theme is visible to the user
+37                 while the Flutter UI initializes. After that, this theme continues
+38                 to determine the Window background behind the Flutter UI.
+39            -->
+40            <meta-data
+40-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:26:13-29:17
+41                android:name="io.flutter.embedding.android.NormalTheme"
+41-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:27:15-70
+42                android:resource="@style/NormalTheme" />
+42-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:28:15-52
+43            <!--
+44                 Displays an Android View that continues showing the launch screen
+45                 Drawable until Flutter paints its first frame, then this splash
+46                 screen fades out. A splash screen is useful to avoid any visual
+47                 gap between the end of Android's launch screen and the painting of
+48                 Flutter's first frame.
+49            -->
+50            <meta-data
+50-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:35:13-38:17
+51                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+51-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:36:15-79
+52                android:resource="@drawable/launch_background" />
+52-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:37:15-61
+53
+54            <intent-filter>
+54-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:39:13-42:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:40:17-68
+55-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:40:25-66
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:41:17-76
+57-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:41:27-74
+58            </intent-filter>
+59        </activity>
+60        <!--
+61             Don't delete the meta-data below.
+62             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+63        -->
+64        <meta-data
+64-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:46:9-48:33
+65            android:name="flutterEmbedding"
+65-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:47:13-44
+66            android:value="2" />
+66-->C:\Users\yogesh kumar\AndroidStudioProjects\weatherapp\android\app\src\main\AndroidManifest.xml:48:13-30
+67
+68        <activity
+68-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\yogesh kumar\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+69            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+69-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\yogesh kumar\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+70            android:exported="false"
+70-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\yogesh kumar\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+71            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+71-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\yogesh kumar\.gradle\caches\transforms-2\files-2.1\5ac9ad6f13ea0190a3570ea7a43d9f59\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+72
+73        <meta-data
+73-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\yogesh kumar\.gradle\caches\transforms-2\files-2.1\4eabd75a9348f5d66c6a24f57479dff0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+74            android:name="com.google.android.gms.version"
+74-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\yogesh kumar\.gradle\caches\transforms-2\files-2.1\4eabd75a9348f5d66c6a24f57479dff0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+75            android:value="@integer/google_play_services_version" />
+75-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\yogesh kumar\.gradle\caches\transforms-2\files-2.1\4eabd75a9348f5d66c6a24f57479dff0\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+76    </application>
+77
+78</manifest>
