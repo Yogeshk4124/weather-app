@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class WeatherAPI{
-  String apikey="apikey";
+  String apikey="74d03fa36147c48fcc230cd738144e66";
   Future callAPI(double lat,double lon) async{
     http.Response response = await http.get('https://api.openweathermap.org/data/2.5/onecall?lat=$lat&lon=$lon&exclude=alert,minutely,daily&appid=$apikey&units=metric');
     if(response.statusCode==200) {
